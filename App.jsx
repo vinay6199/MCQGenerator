@@ -1,1 +1,0 @@
-export default function App(){return <div>MCQ Generator Ready</div>}
